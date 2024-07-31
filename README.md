@@ -13,5 +13,5 @@ This project involved using the Logisim software to create a fully-functional CP
 
 **Final Iteration**:
 ![image](https://github.com/user-attachments/assets/75f7036f-ba8c-4da1-8b75-023460d56d00)
-In the final iteration, labels made the wire management much easier since they essentially created fictitious connections. This also allowed me to save circuit designs as modules and implement them within other circuit designs. 
+In the final iteration, tunnels made the wire management much easier. This also allowed me to increase complexity while maintaining usability. I also saved circuit designs as modules and implement them within other circuit designs. 
 
